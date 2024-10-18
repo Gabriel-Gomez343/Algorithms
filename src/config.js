@@ -1,0 +1,1 @@
+export let NUMBER_OF_BARS = 20;
